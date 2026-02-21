@@ -140,6 +140,21 @@ footer {
     padding-top: 1rem;
 }
 
+.footer-bottom .created-by {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: #aaaaaa;
+}
+
+.footer-bottom .created-by a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.footer-bottom .created-by a:hover {
+    text-decoration: underline;
+}
+
 /* Homepage Hero Section */
 .hero {
     position: relative;
