@@ -81,8 +81,8 @@ const content = {
       "contact": "Contact Us"
     },
     "home": {
-      "hero_title": "Home Yarn Factory Introduction",
-      "hero_description": "Home Yarn Factory is a trusted partner in yarn manufacturing and trading for a wide range of industrial and commercial applications. We supply high-quality yarns known for strength, softness, and consistent performance."
+      "hero_title": "Silk for threads Factory Introduction",
+      "hero_description": "Silk for threads Factory is a trusted partner in yarn manufacturing and trading for a wide range of industrial and commercial applications. We supply high-quality yarns known for strength, softness, and consistent performance."
     },
     "about": {
       "vision": {
@@ -107,7 +107,7 @@ const content = {
     "products": {
       "aty": {
         "title": "Advanced Polyester Yarns (ATY)",
-        "description": "Home Yarn is a leader in the production and development of Air Textured Yarns (ATY). We possess the latest technologies to provide integrated textile solutions serving carpets, apparel, and upholstery sectors.",
+        "description": "Silk for threads is a leader in the production and development of Air Textured Yarns (ATY). We possess the latest technologies to provide integrated textile solutions serving carpets, apparel, and upholstery sectors.",
         "specs": {
           "denier_range": "Denier Range: Flexible production starting from 150 Denier (for fine apparel/upholstery) up to 1850 Denier (for carpets and heavy textiles).",
           "color_white": "White: Available in various brightness levels, ready for dyeing with the highest absorption standards.",
@@ -140,7 +140,7 @@ const content = {
       }
     },
     "footer": {
-      "company_legal_name": "Home Yarn Textile Spinning Co. (L.L.C)",
+      "company_legal_name": "Silk for threads Textile Spinning Co. (L.L.C)",
       "legal_details": "Established under Law No. 73 of 2017 - 10th of Ramadan City.",
       "address_label": "Address",
       "address_value": "Plot 138, South Industrial Zone (6 Million), 10th of Ramadan City, Egypt."
@@ -154,8 +154,8 @@ const content = {
       "contact": "İletişim"
     },
     "home": {
-      "hero_title": "Home Yarn Fabrikası Tanıtımı",
-      "hero_description": "Home Yarn Fabrikası, iplik üretimi ve ticareti alanında farklı endüstriyel ve ticari kullanım alanlarına yönelik güvenilir bir iş ortağıdır. Dayanıklılık, yumuşaklık ve kalite sürekliliği sunan iplikler sunuyoruz."
+      "hero_title": "Silk for threads Fabrikası Tanıtımı",
+      "hero_description": "Silk for threads Fabrikası, iplik üretimi ve ticareti alanında farklı endüstriyel ve ticari kullanım alanlarına yönelik güvenilir bir iş ortağıdır. Dayanıklılık, yumuşaklık ve kalite sürekliliği sunan iplikler sunuyoruz."
     },
     "about": {
       "vision": {
@@ -180,7 +180,7 @@ const content = {
     "products": {
       "aty": {
         "title": "Gelişmiş Polyester İplikler (ATY)",
-        "description": "Home Yarn, halı, giyim ve döşemelik kumaş sektörlerine entegre tekstil çözümleri sunmak için son teknoloji ile Hava Tekstüreli İplik (ATY) üretiminde liderdir.",
+        "description": "Silk for threads, halı, giyim ve döşemelik kumaş sektörlerine entegre tekstil çözümleri sunmak için son teknoloji ile Hava Tekstüreli İplik (ATY) üretiminde liderdir.",
         "specs": {
           "denier_range": "Denye Aralığı: 150 Denye'den (ince giyim/döşeme için) 1850 Denye'ye (halı ve ağır tekstil için) kadar esnek üretim.",
           "color_white": "Beyaz: Farklı parlaklık seviyelerinde, en yüksek emilim standartlarıyla boyamaya hazır.",
@@ -213,7 +213,7 @@ const content = {
       }
     },
     "footer": {
-      "company_legal_name": "Home Yarn Tekstil İplik Sanayi (Ltd. Şti.)",
+      "company_legal_name": "Silk for threads Tekstil İplik Sanayi (Ltd. Şti.)",
       "legal_details": "2017 tarihli 73 sayılı kanun uyarınca kurulmuştur - 10. Ramazan Şehri.",
       "address_label": "Adres",
       "address_value": "Parsel 138, Güney Sanayi Bölgesi (6 Milyon), 10. Ramazan Şehri, Mısır."
