@@ -70,7 +70,7 @@ const content = {
       "company_legal_name": "شركة الحرير للخيوط  لصناعة الغزل (شركة ذات مسئولية محدودة)",
       "legal_details": "تأسست طبقاً لأحكام القوانين المعمول بها فى جمهورية مصر العربية بقانون رقم 73 لسنة 2017 في مدينة العاشر من رمضان.",
       "address_label": "العنوان",
-      "address_value": "قطعة 138 المنطقة الصناعية الجنوبية 6 مليون - العاشر من رمضان – مصر"
+"address_value": "قطعة 284 نموذج ب المنطقة الصناعية الجنوبية 6 مليون - العاشر من رمضان – مصر"
     }
   },
   "en": {
@@ -143,7 +143,7 @@ const content = {
       "company_legal_name": "Silk for threads Textile Spinning Co. (L.L.C)",
       "legal_details": "Established under Law No. 73 of 2017 - 10th of Ramadan City.",
       "address_label": "Address",
-      "address_value": "Plot 138, South Industrial Zone (6 Million), 10th of Ramadan City, Egypt."
+"address_value": "Plot 284 Model B, South Industrial Zone (6 Million), 10th of Ramadan City, Egypt."
     }
   },
   "tr": {
@@ -216,7 +216,7 @@ const content = {
       "company_legal_name": "Silk for threads Tekstil İplik Sanayi (Ltd. Şti.)",
       "legal_details": "2017 tarihli 73 sayılı kanun uyarınca kurulmuştur - 10. Ramazan Şehri.",
       "address_label": "Adres",
-      "address_value": "Parsel 138, Güney Sanayi Bölgesi (6 Milyon), 10. Ramazan Şehri, Mısır."
+"address_value": "Parsel 284 Model B, Güney Sanayi Bölgesi (6 Milyon), 10. Ramazan Şehri, Mısır."
     }
   }
 };
